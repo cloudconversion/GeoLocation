@@ -32,28 +32,28 @@
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1501432948000,
+            "changeTime": 1501432948000,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1501433361000,
-            "changeTime": 1501433361000,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -710,14 +710,14 @@
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/permissionsets/GeoLocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/permissionsets/GeoLocation.permissionset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 700,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "de35836b57563ef6d5e6f2d6f55d92b78def07c7",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "de35836b57563ef6d5e6f2d6f55d92b78def07c7"
         }
     ],
     [
@@ -804,7 +804,7 @@
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
             "size": 102,
-            "modifiedTime": 1501433210000,
+            "modifiedTime": 1501428642000,
             "changeTime": 1501428642000,
             "contentHash": "8b10a2d77671f2e7d312126417769f34ff4f53c8",
             "isMetadataFile": false,
@@ -856,7 +856,7 @@
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 272,
-            "modifiedTime": 1501433585000,
+            "modifiedTime": 1501433065000,
             "changeTime": 1501433065000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
             "isMetadataFile": false,
@@ -866,14 +866,14 @@
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1501433033000,
+            "changeTime": 1501433033000,
+            "contentHash": "0156aa8f69e1e3c49a79f55b0b4559078c85787d",
             "isMetadataFile": false,
-            "size": 152,
-            "modifiedTime": 1501433585000,
-            "changeTime": 1501433585000,
-            "contentHash": "acd6f6d6cc13546f1d1c5f83475f4b72236e7e7c"
+            "state": "u"
         }
     ],
     [
@@ -944,274 +944,92 @@
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 6001,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18117,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5665,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5661,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1501433210000,
             "changeTime": 1501433210000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1501433536000,
-            "changeTime": 1501433536000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1501433334000,
-            "changeTime": 1501433334000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 398,
-            "modifiedTime": 1501433404000,
-            "changeTime": 1501433404000,
-            "contentHash": "29094a6dc983819f0b1ee5e2600440597845c4ab"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1501433361000,
-            "changeTime": 1501433361000,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1501433536000,
-            "changeTime": 1501433536000,
-            "contentHash": "4abc64678a11a466d1ad89017972ef6f43442616"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1501433501000,
-            "changeTime": 1501433501000,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1501433361000,
-            "changeTime": 1501433361000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1501433361000,
-            "changeTime": 1501433361000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 122,
-            "modifiedTime": 1501433292000,
-            "changeTime": 1501433292000,
-            "contentHash": "ec7c31bb2adfad823ca201c24ed89618a3d26301"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1501433236000,
-            "changeTime": 1501433236000,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 171,
-            "modifiedTime": 1501433316000,
-            "changeTime": 1501433316000,
-            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1501433236000,
-            "changeTime": 1501433236000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1501433236000,
-            "changeTime": 1501433236000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jon/Documents/dx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1501433236000,
-            "changeTime": 1501433236000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
